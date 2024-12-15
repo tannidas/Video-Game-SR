@@ -23,6 +23,9 @@ Run `visualize.py` after changing the following variables
 file_path = '/data3/ALLPatches_DVI2K.h5'
 ```
 
+### Networks
+
+Network is defined in `testNet_5.py`
 
 ### Training
 
